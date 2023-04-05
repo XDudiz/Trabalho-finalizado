@@ -1,0 +1,35 @@
+body{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    background-color: #0092c4;
+}
+.sla{
+    text-align: center;
+    background-color: rgb(255, 58, 58);
+    color: white;
+}
+p{
+    text-align: justify;
+}
+h2{
+    text-align: center;
+    color: rgb(255, 58, 58);
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: red;
+    text-decoration: underline;
+}
+.sla1{
+    text-align: center;
+    color: rgb(255, 58, 58);
+}
+.sla2{
+    text-align: center;
+    color: rgb(255, 58, 58);
+}
+img{
+    align-items: center;
+}
